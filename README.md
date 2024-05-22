@@ -11,4 +11,4 @@
     - ☆speakbuddy
     - ☆AWSjumpstart2日目
     - ☆pixiv×dipLT登壇資料作成
-    - ☆マスタリングTCP/IP第三章読む
+    - ☆マスタリングTCP/IP第三章
