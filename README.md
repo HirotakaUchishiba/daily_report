@@ -1,14 +1,15 @@
 # Daily Report
-# 2024/05/21
-  - ☆ やったこと
-    - ☆四季報写経（ガイアックス）
-    - ☆AWSjumpstart1日目
-    - ☆pixiv×dipLT登壇資料作成
-    - ☆マスタリングTCP/IP第二章読む
+# 2024/06/01
+  - ☆ 今日やったこと
+    - ☆SpeakBuddy
+    - ☆マスタリングTCP/IP
+    - ☆freee技術の日
 
-# 2024/05/22
-  - ☆ やったこと
-    - ☆speakbuddy
-    - ☆AWSjumpstart2日目
-    - ☆pixiv×dipLT登壇資料作成
-    - ☆マスタリングTCP/IP第三章
+# 2024/06/02
+  - ☆ 今日やったこと
+    - ☆SpeakBuddy
+    - ☆LitLink内容更新
+    - ☆マスタリングTCP/IP
+    - ☆副業
+    - ☆個人開発
+
