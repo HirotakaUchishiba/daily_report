@@ -74,5 +74,5 @@
     - SpeakBuddy
     - 読書(マスタリングTCP/IP)
     - freeCodeCamp.orgでGoの動画をみる
-    - 本業
-    - 副業
+    - 本業(Kotlin)
+    - 副業(Flutter)
