@@ -67,3 +67,12 @@
     - AWS Startup Loftに行く
     - freeCodeCamp.orgでGoの動画をみる
     - 副業
+
+## 2024/06/04
+  - 今日やること
+    - Recursion
+    - SpeakBuddy
+    - 読書(マスタリングTCP/IP)
+    - freeCodeCamp.orgでGoの動画をみる
+    - 本業
+    - 副業
