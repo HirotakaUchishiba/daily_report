@@ -76,3 +76,9 @@
     - freeCodeCamp.orgでGoの動画をみる
     - 本業(Kotlin)
     - 副業(Flutter)
+
+  - 今日やったこと
+    - SpeakBuddy
+    - freeCodeCamp.orgでGoの動画をみる
+    - 本業(Kotlin)
+    - 副業(Flutter)
