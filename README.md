@@ -82,3 +82,10 @@
     - freeCodeCamp.orgでGoの動画をみる
     - 本業(Kotlin)
     - 副業(Flutter)
+
+## 2024/06/05
+  - 今日やること
+    - Recursion
+    - SpeakBuddy
+    - 本業(Kotlin)
+    - 副業(Flutter)
