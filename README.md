@@ -89,3 +89,9 @@
     - SpeakBuddy
     - 本業(Kotlin)
     - 副業(Flutter)
+
+  - 今日やったこと
+    - Recursion
+    - SpeakBuddy
+    - 本業(Kotlin)
+    - 副業(Flutter)
