@@ -96,7 +96,7 @@
     - 本業(Kotlin)
     - 副業(Flutter)
 
-  ## 2024/06/05
+  ## 2024/06/06
   - 今日やること
     - Recursion
     - SpeakBuddy
