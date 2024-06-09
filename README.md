@@ -130,3 +130,9 @@
     - 9:00-10:00 SpeakBuddy
     - 13:00-17:00 HarbarS もくもく会
     - 18:40-22:00 English Only Cafe
+
+    ## 2024/06/09
+  - 今日やったこと
+    - 10:00-10:00 SpeakBuddy
+    - 13:00-18:00 個人開発
+    - 18:30-22:00 Amigo international friendship
