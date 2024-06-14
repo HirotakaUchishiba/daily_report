@@ -163,3 +163,6 @@
     
   - 今日やったこと
     - 9:30-23:00 FlutterNinjas Day1
+    - 
+  - 今日やったこと
+    - 9:30-23:00 FlutterNinjas Day2
